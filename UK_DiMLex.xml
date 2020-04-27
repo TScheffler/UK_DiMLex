@@ -10,13 +10,13 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -30,10 +30,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="disjunction"/>
+        <pdtb3_relation sense="disjunction"/>
       </sem>
     </syn>
   </entry>
@@ -50,10 +50,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -67,7 +67,7 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -81,7 +81,7 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -95,7 +95,7 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
     </syn>
   </entry>
@@ -109,10 +109,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="negCondition_arg1-as-negCond"/>
+        <pdtb3_relation sense="negCondition_arg1-as-negCond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -126,10 +126,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -143,7 +143,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg1-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -157,10 +157,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="exception_arg2-as-excpt"/>
+        <pdtb3_relation sense="exception_arg2-as-excpt"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="disjunction"/>
+        <pdtb3_relation sense="disjunction"/>
       </sem>
     </syn>
   </entry>
@@ -174,13 +174,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="similarity"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -194,7 +194,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -208,13 +208,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="concession_arg1-as-denier"/>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg1-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -228,10 +228,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="concession_arg1-as-denier"/>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
       </sem>
     </syn>
   </entry>
@@ -248,10 +248,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -268,10 +268,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
     </syn>
   </entry>
@@ -288,10 +288,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
     </syn>
   </entry>
@@ -305,13 +305,13 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="substitution_arg2-as-subst"/>
+        <pdtb3_relation sense="substitution_arg2-as-subst"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="disjunction"/>
+        <pdtb3_relation sense="disjunction"/>
       </sem>
     </syn>
   </entry>
@@ -325,7 +325,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -339,10 +339,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -356,13 +356,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -376,13 +376,13 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -396,13 +396,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="negCondition_arg1-as-negCond"/>
+        <pdtb3_relation sense="negCondition_arg1-as-negCond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="exception_arg1-as-excpt"/>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
       </sem>
     </syn>
   </entry>
@@ -416,13 +416,13 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="succession"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
     </syn>
   </entry>
@@ -436,7 +436,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="succession"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
     </syn>
   </entry>
@@ -450,10 +450,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="equivalence"/>
+        <pdtb3_relation sense="equivalence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -467,13 +467,13 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -487,10 +487,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="instantiation_arg2-as-instance"/>
+        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
       </sem>
     </syn>
   </entry>
@@ -504,7 +504,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -518,10 +518,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -535,13 +535,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="similarity"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg1-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="equivalence"/>
+        <pdtb3_relation sense="equivalence"/>
       </sem>
     </syn>
   </entry>
@@ -555,7 +555,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -572,10 +572,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="similarity"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -589,10 +589,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="concession_arg2-as-denier"/>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -606,7 +606,7 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="concession_arg2-as-denier"/>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
       </sem>
     </syn>
   </entry>
@@ -620,13 +620,13 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_negResult"/>
+        <pdtb3_relation sense="cause_negResult"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="negCondition_arg2-as-negCond"/>
+        <pdtb3_relation sense="negCondition_arg2-as-negCond"/>
       </sem>
     </syn>
   </entry>
@@ -640,10 +640,10 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -657,13 +657,13 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="concession_arg2-as-denier"/>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
       </sem>
     </syn>
   </entry>
@@ -677,13 +677,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="similarity"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
     </syn>
   </entry>
@@ -697,10 +697,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -714,10 +714,10 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="exception_arg2-as-excpt"/>
+        <pdtb3_relation sense="exception_arg2-as-excpt"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="disjunction"/>
+        <pdtb3_relation sense="disjunction"/>
       </sem>
     </syn>
   </entry>
@@ -731,7 +731,7 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
     </syn>
   </entry>
@@ -745,13 +745,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -765,7 +765,7 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -782,7 +782,7 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -796,7 +796,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -810,10 +810,10 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="succession"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
     </syn>
   </entry>
@@ -827,10 +827,10 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -844,7 +844,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -858,10 +858,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg1-as-cond"/>
+        <pdtb3_relation sense="condition_arg1-as-cond"/>
       </sem>
     </syn>
   </entry>
@@ -875,10 +875,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -892,7 +892,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -906,7 +906,7 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -920,10 +920,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="substitution_arg2-as-subst"/>
+        <pdtb3_relation sense="substitution_arg2-as-subst"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
     </syn>
   </entry>
@@ -937,7 +937,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="succession"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
     </syn>
   </entry>
@@ -951,10 +951,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="substitution_arg2-as-subst"/>
+        <pdtb3_relation sense="substitution_arg2-as-subst"/>
       </sem>
     </syn>
   </entry>
@@ -968,10 +968,10 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
     </syn>
   </entry>
@@ -985,7 +985,7 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -999,10 +999,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="manner_arg1-as-manner"/>
+        <pdtb3_relation sense="manner_arg1-as-manner"/>
       </sem>
     </syn>
   </entry>
@@ -1016,10 +1016,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="similarity"/>
+        <pdtb3_relation sense="similarity"/>
       </sem>
     </syn>
   </entry>
@@ -1033,10 +1033,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -1050,10 +1050,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="equivalence"/>
+        <pdtb3_relation sense="equivalence"/>
       </sem>
     </syn>
   </entry>
@@ -1070,13 +1070,13 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -1090,10 +1090,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="condition_arg1-as-cond"/>
+        <pdtb3_relation sense="condition_arg1-as-cond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -1107,13 +1107,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="precedence"/>
+        <pdtb3_relation sense="precedence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -1127,7 +1127,7 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -1144,10 +1144,10 @@
     <syn>
       <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -1161,7 +1161,7 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -1175,7 +1175,7 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
     </syn>
   </entry>
@@ -1189,10 +1189,10 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg2-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg2-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -1206,13 +1206,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="level-of-detail_arg1-as-detail"/>
+        <pdtb3_relation sense="level-of-detail_arg1-as-detail"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="instantiation_arg2-as-instance"/>
+        <pdtb3_relation sense="instantiation_arg2-as-instance"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -1226,10 +1226,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="negCondition_arg2-as-negCond"/>
+        <pdtb3_relation sense="negCondition_arg2-as-negCond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="exception_arg1-as-excpt"/>
+        <pdtb3_relation sense="exception_arg1-as-excpt"/>
       </sem>
     </syn>
   </entry>
@@ -1243,7 +1243,7 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="concession_arg1-as-denier"/>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
       </sem>
     </syn>
   </entry>
@@ -1257,10 +1257,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="exception_arg2-as-excpt"/>
+        <pdtb3_relation sense="exception_arg2-as-excpt"/>
       </sem>
     </syn>
   </entry>
@@ -1274,10 +1274,10 @@
     <syn>
       <cat>other</cat>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
     </syn>
   </entry>
@@ -1291,7 +1291,7 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
     </syn>
   </entry>
@@ -1305,13 +1305,13 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="contrast"/>
+        <pdtb3_relation sense="contrast"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="disjunction"/>
+        <pdtb3_relation sense="disjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
     </syn>
   </entry>
@@ -1325,13 +1325,13 @@
     <syn>
       <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense="conjunction"/>
+        <pdtb3_relation sense="conjunction"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="instantiation_arg1-as-instance"/>
+        <pdtb3_relation sense="instantiation_arg1-as-instance"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="concession_arg2-as-denier"/>
+        <pdtb3_relation sense="concession_arg2-as-denier"/>
       </sem>
     </syn>
   </entry>
@@ -1345,10 +1345,10 @@
     <syn>
       <cat>preposition</cat>
       <sem>
-        <pdtb3_sense sense="equivalence"/>
+        <pdtb3_relation sense="equivalence"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
     </syn>
   </entry>
@@ -1362,10 +1362,10 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="succession"/>
+        <pdtb3_relation sense="succession"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="synchronous"/>
+        <pdtb3_relation sense="synchronous"/>
       </sem>
     </syn>
   </entry>
@@ -1379,13 +1379,13 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="concession_arg1-as-denier"/>
+        <pdtb3_relation sense="concession_arg1-as-denier"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_result"/>
+        <pdtb3_relation sense="cause_result"/>
       </sem>
     </syn>
   </entry>
@@ -1399,800 +1399,724 @@
     <syn>
       <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense="condition_arg2-as-cond"/>
+        <pdtb3_relation sense="condition_arg2-as-cond"/>
       </sem>
       <sem>
-        <pdtb3_sense sense="cause_reason"/>
+        <pdtb3_relation sense="cause_reason"/>
       </sem>
     </syn>
   </entry>
-  <entry id="c83" word="">
-    <english_equivalent></english_equivalent>
-    <orths>
-      <orth type="" canonical="1" onr="83o1">
-        <part type=""></part>
-      </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c84" word="ніби">
+  <entry id="c83" word="ніби">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="84o1">
+      <orth type="cont" canonical="1" onr="83o1">
         <part type="single">ніби</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c85" word="зате">
-    <english_equivalent>in contrast to, but</english_equivalent>
+  <entry id="c84" word="зате">
+    <english_equivalent>but</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="85o1">
+      <orth type="cont" canonical="1" onr="84o1">
         <part type="single">зате</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c86" word="не тільки.., а й">
+  <entry id="c85" word="не тільки...а й">
     <english_equivalent>not only...but also</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="86o1">
-        <part type="phrasal">не тільки.., а й</part>
+      <orth type="discont" canonical="1" onr="85o1">
+        <part type="phrasal">не тільки...а й</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c87" word="дарма що">
+  <entry id="c86" word="дарма що">
     <english_equivalent>nevertheless, even so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="87o1">
-        <part type="single">дарма що</part>
+      <orth type="cont" canonical="1" onr="86o1">
+        <part type="phrasal">дарма що</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c88" word="чим.., тим">
+  <entry id="c87" word="чим...тим">
     <english_equivalent>the...the</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="88o1">
-        <part type="single">чим.., тим</part>
+      <orth type="discont" canonical="1" onr="87o1">
+        <part type="single">чим...тим</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c89" word="аби">
+  <entry id="c88" word="аби">
     <english_equivalent>for, in order to</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="89o1">
+      <orth type="cont" canonical="1" onr="88o1">
         <part type="single">аби</part>
       </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c90" word="аби-но">
-    <english_equivalent>for, in order to</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="90o1">
+      <orth type="cont" canonical="0" onr="88o2">
         <part type="single">аби-но</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c91" word="або...або">
+  <entry id="c89" word="або...або">
     <english_equivalent>or...or</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="91o1">
+      <orth type="discont" canonical="1" onr="89o1">
         <part type="single">або...або</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c92" word="ба">
+  <entry id="c90" word="ба">
     <english_equivalent>even, moreover</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="92o1">
+      <orth type="cont" canonical="1" onr="90o1">
         <part type="single">ба</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c93" word="буцім">
+  <entry id="c91" word="буцім">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="93o1">
+      <orth type="cont" canonical="1" onr="91o1">
         <part type="single">буцім</part>
       </orth>
-      <orth type="cont" canonical="0" onr="93o2">
+      <orth type="cont" canonical="0" onr="91o2">
         <part type="single">буцімто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c94" word="відколи">
+  <entry id="c92" word="відколи">
     <english_equivalent>since</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="94o1">
+      <orth type="cont" canonical="1" onr="92o1">
         <part type="single">відколи</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c95" word="а все-таки">
-    <english_equivalent>however, afterall, notwithstanging</english_equivalent>
+  <entry id="c93" word="а все-таки">
+    <english_equivalent>however, after all, notwithstanding</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="95o1">
+      <orth type="cont" canonical="1" onr="93o1">
         <part type="phrasal">а все-таки</part>
       </orth>
-      <orth type="cont" canonical="0" onr="95o2">
+      <orth type="cont" canonical="0" onr="93o2">
         <part type="phrasal">а все ж таки</part>
       </orth>
-      <orth type="cont" canonical="0" onr="95o3">
+      <orth type="cont" canonical="0" onr="93o3">
         <part type="phrasal">все таки</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c96" word="та все-таки">
+  <entry id="c94" word="та все-таки">
     <english_equivalent>however</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="96o1">
+      <orth type="cont" canonical="1" onr="94o1">
         <part type="phrasal">та все-таки</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c97" word="втім">
+  <entry id="c95" word="втім">
     <english_equivalent>however, on the other hand</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="97o1">
+      <orth type="cont" canonical="1" onr="95o1">
         <part type="single">втім</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c98" word="гейби">
+  <entry id="c96" word="гейби">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="98o1">
+      <orth type="cont" canonical="1" onr="96o1">
         <part type="single">гейби</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c99" word="докіль">
+  <entry id="c97" word="докіль">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="99o1">
+      <orth type="cont" canonical="1" onr="97o1">
         <part type="single">докіль</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c100" word="допіру">
+  <entry id="c98" word="допіру">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="100o1">
+      <orth type="cont" canonical="1" onr="98o1">
         <part type="single">допіру</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
+      <cat>adverb</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c101" word="зате">
-    <english_equivalent>but</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="101o1">
-        <part type="single">зате</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c102" word="й">
+  <entry id="c99" word="й">
     <english_equivalent>and</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="102o1">
+      <orth type="cont" canonical="1" onr="99o1">
         <part type="single">й</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c103" word="мов">
+  <entry id="c100" word="мов">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="103o1">
+      <orth type="cont" canonical="1" onr="100o1">
         <part type="single">мов</part>
       </orth>
-      <orth type="cont" canonical="0" onr="103o2">
+      <orth type="cont" canonical="0" onr="100o2">
         <part type="single">мовбитоб</part>
       </orth>
-      <orth type="cont" canonical="0" onr="103o3">
+      <orth type="cont" canonical="0" onr="100o3">
         <part type="single">мовби</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c104" word="наче">
+  <entry id="c101" word="наче">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="104o1">
+      <orth type="cont" canonical="1" onr="101o1">
         <part type="single">наче</part>
       </orth>
-      <orth type="cont" canonical="0" onr="104o2">
+      <orth type="cont" canonical="0" onr="101o2">
         <part type="single">начеб</part>
       </orth>
-      <orth type="cont" canonical="0" onr="104o3">
+      <orth type="cont" canonical="0" onr="101o3">
         <part type="single">начебто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c105" word="немов">
+  <entry id="c102" word="немов">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="105o1">
+      <orth type="cont" canonical="1" onr="102o1">
         <part type="single">немов</part>
       </orth>
-      <orth type="cont" canonical="0" onr="105o2">
+      <orth type="cont" canonical="0" onr="102o2">
         <part type="single">немовби</part>
       </orth>
-      <orth type="cont" canonical="0" onr="105o3">
+      <orth type="cont" canonical="0" onr="102o3">
         <part type="single">немовбито</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c106" word="неначе">
+  <entry id="c103" word="неначе">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="106o1">
+      <orth type="cont" canonical="1" onr="103o1">
         <part type="single">неначе</part>
       </orth>
-      <orth type="cont" canonical="0" onr="106o2">
+      <orth type="cont" canonical="0" onr="103o2">
         <part type="single">неначебто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c107" word="нехай">
-    <english_equivalent>let, may (connective of goal, purpose)</english_equivalent>
+  <entry id="c104" word="нехай">
+    <english_equivalent>let, may</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="107o1">
+      <orth type="cont" canonical="1" onr="104o1">
         <part type="single">нехай</part>
       </orth>
-      <orth type="cont" canonical="0" onr="107o2">
+      <orth type="cont" canonical="0" onr="104o2">
         <part type="single">нехай-но</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c108" word="нібито">
+  <entry id="c105" word="нібито">
     <english_equivalent>as if</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="108o1">
+      <orth type="cont" canonical="1" onr="105o1">
         <part type="single">нібито</part>
       </orth>
-      <orth type="cont" canonical="0" onr="108o2">
+      <orth type="cont" canonical="0" onr="105o2">
         <part type="single">ніби</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c109" word="ніж">
+  <entry id="c106" word="ніж">
     <english_equivalent>than</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="109o1">
+      <orth type="cont" canonical="1" onr="106o1">
         <part type="single">ніж</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c110" word="одначе">
+  <entry id="c107" word="одначе">
     <english_equivalent>however</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="110o1">
+      <orth type="cont" canonical="1" onr="107o1">
         <part type="single">одначе</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c111" word="отож">
+  <entry id="c108" word="отож">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="111o1">
+      <orth type="cont" canonical="1" onr="108o1">
         <part type="single">отож</part>
       </orth>
-      <orth type="cont" canonical="0" onr="111o2">
+      <orth type="cont" canonical="0" onr="108o2">
         <part type="single">отож-то</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c112" word="позаяк">
+  <entry id="c109" word="позаяк">
     <english_equivalent>therefore</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="112o1">
+      <orth type="cont" canonical="1" onr="109o1">
         <part type="single">позаяк</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c113" word="поскільки">
-    <english_equivalent>therefore</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="113o1">
-        <part type="single">поскільки</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c114" word="притім">
+  <entry id="c110" word="притім">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="114o1">
+      <orth type="cont" canonical="1" onr="110o1">
         <part type="single">притім</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c115" word="притому">
+  <entry id="c111" word="притому">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="115o1">
+      <orth type="cont" canonical="1" onr="111o1">
         <part type="single">притому</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c116" word="причім">
+  <entry id="c112" word="причім">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="116o1">
+      <orth type="cont" canonical="1" onr="112o1">
         <part type="single">причім</part>
       </orth>
-      <orth type="cont" canonical="0" onr="116o2">
+      <orth type="cont" canonical="0" onr="112o2">
         <part type="single">причому</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c117" word="раз">
+  <entry id="c113" word="раз">
     <english_equivalent>if, in case</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="117o1">
+      <orth type="cont" canonical="1" onr="113o1">
         <part type="single">раз</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c118" word="себто">
+  <entry id="c114" word="себто">
     <english_equivalent>namely</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="118o1">
+      <orth type="cont" canonical="1" onr="114o1">
         <part type="single">себто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c119" word="таж">
+  <entry id="c115" word="таж">
     <english_equivalent>because, so</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="119o1">
+      <orth type="cont" canonical="1" onr="115o1">
         <part type="single">таж</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c120" word="так">
+  <entry id="c116" word="так">
     <english_equivalent>but</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="120o1">
+      <orth type="cont" canonical="1" onr="116o1">
         <part type="single">так</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c121" word="тільки">
+  <entry id="c117" word="тільки">
     <english_equivalent>but, if, just, only</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="121o1">
+      <orth type="cont" canonical="1" onr="117o1">
         <part type="single">тільки</part>
       </orth>
-      <orth type="cont" canonical="0" onr="121o2">
+      <orth type="cont" canonical="0" onr="117o2">
         <part type="single">тільки-но</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c122" word="тобто">
+  <entry id="c118" word="тобто">
     <english_equivalent>namely</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="122o1">
+      <orth type="cont" canonical="1" onr="118o1">
         <part type="single">тобто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c123" word="тому-то">
+  <entry id="c119" word="тому-то">
     <english_equivalent>because of that, that is why?</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="123o1">
+      <orth type="cont" canonical="1" onr="119o1">
         <part type="single">тому-то</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c124" word="а усе">
+  <entry id="c120" word="а усе">
     <english_equivalent>however</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="124o1">
-        <part type="single">а усе</part>
+      <orth type="cont" canonical="1" onr="120o1">
+        <part type="phrasal">а усе</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c125" word="а усе-таки">
+  <entry id="c121" word="а усе-таки">
     <english_equivalent>however, afterall, notwithstanding</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="125o1">
-        <part type="single">а усе-таки</part>
+      <orth type="cont" canonical="1" onr="121o1">
+        <part type="phrasal">а усе-таки</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c126" word="та усе">
+  <entry id="c122" word="та усе">
     <english_equivalent>however</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="126o1">
-        <part type="single">та усе</part>
+      <orth type="cont" canonical="1" onr="122o1">
+        <part type="phrasal">та усе</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c127" word="та усе-таки">
+  <entry id="c123" word="та усе-таки">
     <english_equivalent>however, in the end</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="127o1">
-        <part type="single">та усе-таки</part>
+      <orth type="cont" canonical="1" onr="123o1">
+        <part type="phrasal">та усе-таки</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>other</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c128" word="утім">
-    <english_equivalent>however</english_equivalent>
+  <entry id="c124" word="хай">
+    <english_equivalent>so that</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="128o1">
-        <part type="single">утім</part>
-      </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c129" word="хай">
-    <english_equivalent>let, may (connective of goal, purpose)</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="129o1">
+      <orth type="cont" canonical="1" onr="124o1">
         <part type="single">хай</part>
       </orth>
-    </orths>
-    <syn>
-      <cat></cat>
-      <sem>
-        <pdtb3_sense sense=""/>
-      </sem>
-    </syn>
-  </entry>
-  <entry id="c130" word="хай-но">
-    <english_equivalent>let, may (connective of goal, purpose)</english_equivalent>
-    <orths>
-      <orth type="cont" canonical="1" onr="130o1">
+      <orth type="cont" canonical="0" onr="124o2">
         <part type="single">хай-но</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c131" word="хіба">
+  <entry id="c125" word="хіба">
     <english_equivalent>unless</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="131o1">
+      <orth type="cont" canonical="1" onr="125o1">
         <part type="single">хіба</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c132" word="цебто">
+  <entry id="c126" word="цебто">
     <english_equivalent>namely</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="132o1">
+      <orth type="cont" canonical="1" onr="126o1">
         <part type="single">цебто</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>coord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c133" word="щоби">
+  <entry id="c127" word="щоби">
     <english_equivalent>in order to</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="133o1">
+      <orth type="cont" canonical="1" onr="127o1">
         <part type="single">щоби</part>
       </orth>
-      <orth type="cont" canonical="0" onr="133o2">
+      <orth type="cont" canonical="0" onr="127o2">
         <part type="single">щоб</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c134" word="щойно">
+  <entry id="c128" word="щойно">
     <english_equivalent>as soon as</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="134o1">
+      <orth type="cont" canonical="1" onr="128o1">
         <part type="single">щойно</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
-  <entry id="c135" word="щоправда">
+  <entry id="c129" word="щоправда">
     <english_equivalent>though</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="135o1">
+      <orth type="cont" canonical="1" onr="129o1">
         <part type="single">щоправда</part>
       </orth>
     </orths>
     <syn>
-      <cat></cat>
+      <cat>subord_conj</cat>
       <sem>
-        <pdtb3_sense sense=""/>
+        <pdtb3_relation sense=""/>
       </sem>
     </syn>
   </entry>
