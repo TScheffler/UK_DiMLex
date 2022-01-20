@@ -8,11 +8,12 @@ The lexicon is searchable online via the multilingual interface at [connective-l
 
 ## Structure of the Lexicon ##
 
-The lexicon is an xml file roughly following the DiMLex standard. Each entry consists of:
+The lexicon is an xml file roughly following the [DiMLex](https://github.com/discourse-lab/dimlex) standard. Each entry consists of:
 * a numerical ID and the lemma
 * an English translation `<english_equivalent/>`
 * one or more orthographic variants `<orth/>`
 * a syntactic class `<syn/>`
+* for each syntactic class, possible semantic senses from the [PDTB3](https://www.cis.upenn.edu/~pdtb/) schema `<sem/>`
 
 ## References ##
 
